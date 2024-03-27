@@ -1405,8 +1405,8 @@
     .references-avatar-box img { width: 80px; }
   
     .references-item-title {
-      margin-bottom: 10px;
-      margin-left: 95px;
+      text-align: center;
+      padding-bottom: 10px;
     }
   
     .references-text {
